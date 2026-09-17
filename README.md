@@ -1,20 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=CAIQUE%20SANTANA&fontAlign=50&fontAlignY=38&desc=FULL%20STACK%20SOFTWARE%20ENGINEER&descAlign=50&descAlignY=58&fontSize=48&descSize=18&animation=fadeIn&section=header" width="100%" />
-
 <br />
 
-<a href="mailto:caiquesantaborges@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-caiquesantaborges%40gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://kyronagency.netlify.app/">
-<img src="https://img.shields.io/badge/KYRON-AGENCY-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0b0b&height=2&section=header" width="100%" />
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=700&lines=Design+%C3%97+Engineering+%C3%97+Product;Building+digital+products+from+idea+to+production;Full+Stack+%7C+Databases+%7C+APIs+%7C+IoT;Interfaces+that+feel+as+good+as+they+work" />
+# CAIQUE SANTANA
+
+### FULL STACK SOFTWARE ENGINEER
+
+<br />
+
+<sub>
+
+**DIGITAL PRODUCTS · SOFTWARE ENGINEERING · INTERFACE DESIGN**
+
+</sub>
+
+<br /><br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=20&duration=3500&pause=1200&color=C9B89A&center=true&vCenter=true&width=700&lines=Software+crafted+with+precision.;Engineering+meets+design.;From+architecture+to+experience.;Built+with+intention." />
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0b0b&height=2&section=header" width="100%" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+`PARIS · SÃO PAULO · DIGITAL ATELIER`
 
 </div>
 
@@ -22,344 +40,270 @@
 
 ---
 
-<div align="center">
+# I · L'ATELIER
 
-### `ENGINEERING / DESIGN / PRODUCT`
+> **I build digital products where engineering meets refined interface design.**
 
-</div>
+I'm **Caique Santana**, a **Full Stack Software Engineer** focused on creating modern applications, SaaS products, intelligent systems and digital experiences.
 
-<br />
+My approach is influenced by the idea of an **atelier**:
 
-# `01` — WHO I AM
+not mass production,
+not unnecessary complexity,
+but **craftsmanship, precision and attention to detail**.
 
-I'm **Caique Santana**, a **Full Stack Software Engineer** focused on building modern digital products where software engineering and interface design work together.
-
-I don't approach development as simply writing code.
-
-I care about the complete system:
+I work across the stack — from interface and interaction to APIs, databases, business logic, automation and systems.
 
 ```text
-        IDEA
-         │
-         ▼
-      PRODUCT
-         │
-    ┌────┴────┐
-    ▼         ▼
-  DESIGN   ARCHITECTURE
-    │         │
-    └────┬────┘
-         ▼
-      ENGINEERING
-         │
-    ┌────┴────┐
-    ▼         ▼
- DATABASE    APIs
-    │         │
-    └────┬────┘
-         ▼
-      PRODUCTION
+             CONCEPT
+                │
+                ▼
+          ┌───────────┐
+          │   DESIGN  │
+          └─────┬─────┘
+                │
+                ▼
+        ┌───────────────┐
+        │ ARCHITECTURE  │
+        └───────┬───────┘
+                │
+        ┌───────┴───────┐
+        ▼               ▼
+     FRONTEND         BACKEND
+        │               │
+        ▼               ▼
+    INTERACTION       DATABASE
+        │               │
+        └───────┬───────┘
+                ▼
+             PRODUCT
 ```
 
-My interests sit between **software architecture, product design, databases, APIs, motion, performance and user experience**.
+### My principle
 
-> **I build products — not just pages.**
-
----
-
-# `02` — WHAT I BUILD
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Full Stack Applications
-
-Modern applications with real business logic, authentication, APIs, databases and scalable architecture.
-
-</td>
-
-<td width="50%" valign="top">
-
-### SaaS Products
-
-Subscription-based products with dashboards, plans, access control, checkout and payment flows.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Product Interfaces
-
-Interfaces focused on hierarchy, interaction, responsiveness, motion and visual polish.
-
-</td>
-
-<td width="50%" valign="top">
-
-### Connected Systems
-
-APIs, integrations, webhooks, databases and systems that connect different parts of a product.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### IoT & Systems
-
-Interest and experience involving connected devices, software and communication between systems.
-
-</td>
-
-<td width="50%" valign="top">
-
-### Digital Experiences
-
-High-end websites and commercial experiences designed around brand, conversion and interaction.
-
-</td>
-</tr>
-</table>
+**Build less noise. Build more intention.**
 
 ---
 
-# `03` — TECHNOLOGY
+# II · SAVOIR-FAIRE
+
+My work combines different disciplines that usually live separately.
+
+| Discipline               | What I work with                                             |
+| :----------------------- | :----------------------------------------------------------- |
+| **Software Engineering** | Architecture, applications, APIs and business logic          |
+| **Frontend**             | React, Next.js, TypeScript, Tailwind                         |
+| **Backend**              | Node.js, APIs, authentication and integrations               |
+| **Python**               | Applications, automation, scripting, APIs and data workflows |
+| **Databases**            | PostgreSQL, MongoDB, Mongoose, Prisma, Supabase              |
+| **Systems**              | C, IoT and connected systems                                 |
+| **Product**              | SaaS, dashboards, workflows and digital products             |
+| **Interface**            | UI systems, motion, responsive design and interaction        |
+
+---
+
+# III · LANGAGES
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,c&theme=dark&perline=4" />
+
+</div>
+
+<br />
+
+### TypeScript
+
+One of my primary languages for full-stack application development.
+
+```text
+React
+Next.js
+APIs
+Business Logic
+Authentication
+Database Layers
+Integrations
+Reusable Components
+```
+
+### Python
+
+I also develop extensively with **Python**.
+
+Python is one of the languages I use for a wide range of problems, including:
+
+```text
+Backend
+APIs
+Automation
+Scripting
+Data Processing
+Integrations
+Tooling
+System Workflows
+```
+
+### C
+
+I work with **C** in systems-oriented and IoT-related contexts, expanding my understanding beyond the traditional web stack.
+
+---
+
+# IV · LA MATIÈRE
 
 ### FRONTEND
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,js&perline=7" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&theme=dark&perline=6" />
 
-<br /><br />
+`Framer Motion` · `shadcn/ui` · `Lucide React`
 
 ### BACKEND
 
-<img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,zod&perline=7" />
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=6" />
 
-<br /><br />
+`REST APIs` · `OAuth` · `JWT` · `bcrypt` · `Zod`
 
-### DATABASES
+### DATABASE
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,supabase&perline=7" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,supabase&theme=dark&perline=6" />
 
-<br /><br />
+**PostgreSQL · MongoDB · MongoDB Atlas · Mongoose · Prisma · Supabase**
 
-### SYSTEMS & INFRASTRUCTURE
+### SYSTEMS
 
-<img src="https://skillicons.dev/icons?i=c,docker,vercel,git,github&perline=7" />
+<img src="https://skillicons.dev/icons?i=c,docker,git,github,vercel&theme=dark&perline=6" />
 
-</div>
-
-<br />
-
-### Core technologies
-
-```text
-Frontend
-├── React
-├── Next.js
-├── TypeScript
-├── JavaScript
-├── HTML
-├── CSS
-├── Tailwind CSS
-├── Framer Motion
-├── shadcn/ui
-└── Lucide React
-
-Backend
-├── Node.js
-├── Next.js App Router
-├── REST APIs
-├── Authentication
-├── OAuth
-├── JWT
-├── bcrypt
-└── Zod
-
-Databases
-├── PostgreSQL
-├── MongoDB
-├── MongoDB Atlas
-├── Mongoose
-├── Prisma
-└── Supabase
-
-Systems
-├── C
-├── IoT
-├── APIs
-├── Webhooks
-└── External integrations
-
-Infrastructure
-└── Vercel
-```
+**C · IoT · APIs · Webhooks · External Services**
 
 ---
 
-# `04` — DATABASES
+# V · ARCHITECTURE
 
-Database architecture is an important part of my full-stack work.
+I work with both relational and document-oriented databases.
 
-I work with both **relational and document-oriented databases**, depending on the requirements of the product.
+The database isn't an afterthought.
+
+It is part of the product architecture.
+
+```text
+                         APPLICATION
+                              │
+                ┌─────────────┴─────────────┐
+                │                           │
+                ▼                           ▼
+          RELATIONAL                    DOCUMENT
+                │                           │
+                ▼                           ▼
+          PostgreSQL                    MongoDB
+                │                           │
+                ▼                           ▼
+             Prisma                     Mongoose
+                │                           │
+                └─────────────┬─────────────┘
+                              │
+                              ▼
+                         DATA LAYER
+```
 
 ### PostgreSQL
 
-Used for structured relational data and applications where relationships, consistency and transactional behavior are important.
+Relational architecture, structured data, relationships and transactional applications.
 
 ### MongoDB
 
-Experience building document-oriented data models with **MongoDB / MongoDB Atlas** and **Mongoose**, including application domains such as:
+Document-oriented applications and flexible data modeling.
 
-```text
-Users
- │
- ├── Clients
- │
- ├── Leads
- │    └── Pipeline
- │
- ├── Proposals
- │
- ├── Services
- │
- ├── Contracts
- │
- └── Financial data
-```
+### Mongoose
+
+ODM-based MongoDB development.
 
 ### Prisma
 
-Used as an ORM layer for strongly typed database access and application architecture.
+Type-safe database access and application data modeling.
 
 ### Supabase
 
-Experience with PostgreSQL-based application infrastructure and modern backend workflows.
+PostgreSQL-based infrastructure for modern applications.
 
 ---
 
-# `05` — C & IoT
+# VI · IoT & SYSTEMS
 
-My development interests are not limited to the web.
+Software doesn't end at the browser.
 
-I also have experience with **C and IoT**, exploring the relationship between software, hardware and connected systems.
+My experience with **C and IoT** allows me to explore another layer of engineering — where software interacts with devices, systems and physical environments.
 
 ```text
-┌───────────────┐
-│    DEVICE     │
-└───────┬───────┘
-        │
-        ▼
-┌───────────────┐
-│   EMBEDDED    │
-│      C        │
-└───────┬───────┘
-        │
-        ▼
-┌───────────────┐
-│ COMMUNICATION │
-└───────┬───────┘
-        │
-        ▼
-┌───────────────┐
-│      API      │
-└───────┬───────┘
-        │
-        ▼
-┌───────────────┐
-│   DATABASE    │
-└───────────────┘
+┌──────────────┐
+│    DEVICE    │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│      C       │
+│   EMBEDDED   │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│ COMMUNICATION│
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│     API      │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│   DATABASE   │
+└──────────────┘
 ```
-
-This perspective helps me understand software beyond the browser — from low-level logic to the systems that consume and process that data.
 
 ---
 
-# `06` — ACLONTECH
+# VII · LES MAISONS
 
-### Technical Experience
+## Mayson
 
-My technical background also includes experience connected to **Aclontech**, contributing to my exposure to **C, IoT and systems-oriented development**.
+### DIGITAL ATELIER
 
-This part of my background complements my web development work by giving me a broader understanding of how software interacts with systems, devices and data.
+**Mayson** is my current digital agency.
+
+The concept combines digital presence, web design and digital strategy with a more sophisticated visual direction.
+
+The philosophy is closer to an atelier than a traditional agency:
+
+**craftsmanship over templates.**
+
+Mayson focuses on creating digital experiences with attention to:
 
 ```text
-WEB
- │
- ├── React
- ├── Next.js
- ├── APIs
- └── SaaS
-      │
-      ▼
-   DATABASE
-      │
-      ▼
-    SYSTEM
-      │
-      ▼
-     IoT
-      │
-      ▼
-      C
+BRAND
+  ×
+INTERFACE
+  ×
+EXPERIENCE
+  ×
+TECHNOLOGY
 ```
 
-**Web development and systems development are different environments — but both require the same mindset: understand the system, design the architecture and build with intention.**
+The visual language is inspired by sophisticated French ateliers:
+
+**editorial typography · dark luxury · restrained color · elegant composition · precise details**
 
 ---
 
-# `07` — SELECTED WORK
+## AxéFlow
 
-## AXÉFLOW
+### TECHNOLOGY WITH AXÉ. MANAGEMENT WITH ORI.
 
-<div align="center">
+A full-stack SaaS created around the operational needs of terreiros.
 
-### `TECHNOLOGY WITH AXÉ. MANAGEMENT WITH ORI.`
+AxéFlow combines product architecture with a highly distinctive visual identity.
 
-</div>
-
-A full-stack SaaS concept designed for **terreiros**, turning operational management into a modern digital product.
-
-The project goes far beyond a marketing page.
-
-### Product architecture
-
-```text
-Authentication
-      │
-      ▼
-Workspace
-      │
- ┌────┼───────────────┐
- ▼    ▼               ▼
-Members  Rituals   Finance
- │        │           │
- ▼        ▼           ▼
-Inventory ─────── Communication
-      │
-      ▼
-   Dashboard
-      │
-      ▼
- Plans / Billing
-      │
-      ▼
- Payment Provider
-      │
-      ▼
-   Webhooks
-      │
-      ▼
-Payment Verification
-```
-
-### Features
+### Product
 
 * Member management
 * Ritual scheduling
@@ -370,315 +314,231 @@ Payment Verification
 * Authentication
 * Subscription plans
 * Checkout
-* Payment processing
+* Payments
 * Webhooks
-* Plan-based access
+* Access control
 * Payment verification
 * Database architecture
 
+### Architecture
+
+```text
+                 AXÉFLOW
+                    │
+          ┌─────────┴─────────┐
+          ▼                   ▼
+      INTERFACE            BACKEND
+          │                   │
+          ▼                   ▼
+       NEXT.JS              APIs
+                              │
+                    ┌─────────┴─────────┐
+                    ▼                   ▼
+                DATABASE            PAYMENTS
+                    │                   │
+                    ▼                   ▼
+                PRISMA             ABACATEPAY
+                                        │
+                                        ▼
+                                    WEBHOOKS
+```
+
 ### Stack
 
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Framer Motion`
+`Next.js` · `React` · `TypeScript`
 
-`PostgreSQL` `Prisma` `AbacatePay` `APIs` `Webhooks`
+`Tailwind CSS` · `Framer Motion`
+
+`PostgreSQL` · `Prisma`
+
+`AbacatePay` · `APIs` · `Webhooks`
 
 ---
 
-## KYRON AGENCY
+## Aclontech
 
-A digital agency focused on **websites, digital presence and paid traffic**.
+### SYSTEMS · C · IoT
 
-Kyron combines commercial strategy with a premium digital experience.
+My experience with **Aclontech** is part of my systems-oriented background.
 
-### Focus
+It connects with my work involving **C, IoT and technology beyond traditional web development**.
+
+This experience contributes to a broader understanding of:
 
 ```text
-DIGITAL PRESENCE
-       +
-WEB DESIGN
-       +
-PAID TRAFFIC
-       +
-CONVERSION
-       ↓
-BUSINESS GROWTH
+SOFTWARE
+    ↓
+SYSTEMS
+    ↓
+DEVICES
+    ↓
+DATA
+    ↓
+CONNECTED EXPERIENCES
 ```
 
-The visual identity explores dark interfaces, gradients, glow, motion and high-end composition.
-
-[**Visit Kyron Agency →**](https://kyronagency.netlify.app/)
-
 ---
 
-## ARENNA LOUNGE
+## Malu IA
 
-A digital experience designed around nightlife and events.
+### ARTIFICIAL INTELLIGENCE · SOFTWARE · PRODUCT
 
-The project combines visual identity and interaction to communicate the atmosphere of the venue through the interface itself.
+**Malu IA** is another project in my development journey, representing my interest in combining software engineering with artificial intelligence.
 
-### Experience
-
-* Events
-* Tickets
-* VIP booths
-* Attractions
-* Responsive design
-* Motion
-* Visual composition
-* Dark/luxury art direction
-
-The design language uses **black, gold, lighting and cinematic elements**.
-
----
-
-## PERSONAL PORTFOLIO
-
-My portfolio is itself an experiment in product design.
-
-Instead of treating it as a static résumé, I use it as a place to explore interaction, motion, visual systems and integrations.
-
-### Sections
-
-`Hero` · `About` · `Projects` · `Skills` · `Experience` · `Contact`
-
-### Experience
-
-* Ambient backgrounds
-* Motion
-* Responsive navigation
-* Interactive components
-* Visual effects
-* Mobile experience
-* API integrations
-* Spotify integration
-
-> **The portfolio is part of the proof.**
-
----
-
-# `08` — SPOTIFY EXPERIENCE
-
-One of the experiments inside my portfolio is a deeper Spotify integration.
-
-The objective is not to create another generic music card.
-
-The interface is designed as a **living component**.
+The project sits at the intersection of:
 
 ```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│            CURRENTLY PLAYING                │
-│                                             │
-│       ┌──────────────────────┐              │
-│       │                      │              │
-│       │      ALBUM ART       │              │
-│       │                      │              │
-│       └──────────────────────┘              │
-│                                             │
-│       TRACK NAME                            │
-│       ARTIST                                │
-│                                             │
-│       ━━━━━━━━━━━━━━━░░░░░                  │
-│                                             │
-│          ◀       ◉       ▶                 │
-│                                             │
-│       ▁ ▂ ▃ ▅ ▃ ▂ ▁ ▃ ▅ ▂                 │
-│                                             │
-└─────────────────────────────────────────────┘
+AI
+ +
+SOFTWARE
+ +
+AUTOMATION
+ +
+USER EXPERIENCE
 ```
 
-### Visual direction
-
-`Glass` · `Aurora` · `Mesh` · `Blur` · `Noise`
-
-`Grain` · `Bloom` · `Reflection` · `Visualizer`
-
-`Equalizer` · `Vinyl` · `Motion` · `Micro-interactions`
-
-### Integration
-
-`Spotify Web API` · `OAuth` · `Current Track`
-
-Inspired by the design language of products such as Spotify, Apple Music, Linear, Vercel, Raycast, Arc, Nothing and Teenage Engineering.
+It reflects my interest in building technology that goes beyond static interfaces and becomes part of the user's workflow.
 
 ---
 
-# `09` — ENGINEERING PHILOSOPHY
+# VIII · LE GESTE
 
-### 01 — Make complexity invisible
+Good software is not only about what happens underneath.
 
-The user shouldn't need to understand the architecture behind a product.
+It is also about what the user feels.
 
-They should simply experience a product that works.
-
-### 02 — Design is part of engineering
-
-Typography, spacing, hierarchy, motion, loading states and responsiveness aren't decoration.
-
-They're part of the interface system.
-
-### 03 — Architecture should serve the product
-
-I prefer technology choices based on actual requirements rather than adding complexity for the sake of complexity.
-
-### 04 — Details matter
-
-A product can have the right features and still feel unfinished.
-
-The difference often lives in:
+I pay attention to:
 
 ```text
-Loading states
-Error states
-Empty states
-Transitions
-Responsive behavior
-Feedback
-Performance
 Typography
 Spacing
+Hierarchy
+Motion
+Responsiveness
+Loading
+Error states
+Empty states
 Micro-interactions
+Performance
+Accessibility
+Data flow
+Architecture
 ```
 
-### 05 — Build end-to-end
-
-I enjoy understanding the entire path:
-
-```text
-USER
- ↓
-INTERFACE
- ↓
-APPLICATION
- ↓
-API
- ↓
-BUSINESS LOGIC
- ↓
-DATABASE
- ↓
-EXTERNAL SERVICES
-```
+The smallest details are still part of the product.
 
 ---
 
-# `10` — DESIGN SYSTEM MINDSET
-
-My frontend work is heavily influenced by product interfaces where visual quality and usability are treated as engineering concerns.
-
-I care about:
-
-| Area              | Focus                                     |
-| ----------------- | ----------------------------------------- |
-| **Typography**    | Hierarchy, readability and rhythm         |
-| **Layout**        | Composition, spacing and visual balance   |
-| **Motion**        | Meaningful transitions and feedback       |
-| **Color**         | Contrast, depth and visual hierarchy      |
-| **Components**    | Reusable and consistent UI                |
-| **Responsive**    | Intentional behavior across devices       |
-| **Performance**   | Fast interactions and efficient rendering |
-| **Accessibility** | Interfaces that remain usable             |
-| **States**        | Loading, error, empty and success states  |
-| **Interaction**   | Feedback and micro-interactions           |
-
----
-
-# `11` — THE WAY I BUILD
+# IX · MY WORKFLOW
 
 ```text
-        ┌───────────────────────┐
-        │       DISCOVER        │
-        │ Understand the idea   │
-        └───────────┬───────────┘
-                    │
-                    ▼
-        ┌───────────────────────┐
-        │        DESIGN         │
-        │ UX / UI / Interaction │
-        └───────────┬───────────┘
-                    │
-                    ▼
-        ┌───────────────────────┐
-        │      ARCHITECT        │
-        │ Data / APIs / System  │
-        └───────────┬───────────┘
-                    │
-                    ▼
-        ┌───────────────────────┐
-        │        BUILD          │
-        │ Frontend + Backend    │
-        └───────────┬───────────┘
-                    │
-                    ▼
-        ┌───────────────────────┐
-        │        REFINE         │
-        │ Performance + Details │
-        └───────────┬───────────┘
-                    │
-                    ▼
+           ┌─────────────┐
+           │   OBSERVE   │
+           │   PROBLEM   │
+           └──────┬──────┘
+                  │
+                  ▼
+           ┌─────────────┐
+           │   CONCEIVE  │
+           │   PRODUCT   │
+           └──────┬──────┘
+                  │
+                  ▼
+           ┌─────────────┐
+           │   DESIGN    │
+           │  EXPERIENCE │
+           └──────┬──────┘
+                  │
+                  ▼
+           ┌─────────────┐
+           │   ENGINEER  │
+           │    SYSTEM   │
+           └──────┬──────┘
+                  │
+                  ▼
+           ┌─────────────┐
+           │   REFINE    │
+           │   DETAILS   │
+           └──────┬──────┘
+                  │
+                  ▼
               PRODUCTION
 ```
 
----
-
-# `12` — CURRENT FOCUS
-
-I'm continuously developing my ability to build products across the entire stack.
-
-### Currently focused on
-
-```text
-FULL STACK ENGINEERING
-        +
-DATABASE ARCHITECTURE
-        +
-PRODUCT DESIGN
-        +
-MODERN FRONTEND
-        +
-API INTEGRATIONS
-        +
-SAAS
-        +
-IoT / SYSTEMS
-        +
-PERFORMANCE
-```
-
-I'm particularly interested in projects where **technical depth and visual quality have to coexist**.
+I prefer understanding the whole system rather than treating frontend, backend and infrastructure as isolated worlds.
 
 ---
 
-# `13` — CONTACT
+# X · THE ATELIER MINDSET
 
 <div align="center">
 
-## Let's build something meaningful.
+### `CRAFT · PRECISION · SYSTEM · EXPERIENCE`
 
-I'm interested in working on products, applications and digital experiences where good engineering and thoughtful design actually matter.
+</div>
+
+I believe software can be engineered with the same attention to detail traditionally associated with craftsmanship.
+
+The code should be maintainable.
+
+The architecture should make sense.
+
+The interface should feel intentional.
+
+The interaction should have purpose.
+
+And the final product should feel coherent from beginning to end.
+
+---
+
+# XI · CONTACT
+
+<div align="center">
 
 <br />
 
+### CAIQUE SANTANA
+
+**FULL STACK SOFTWARE ENGINEER**
+
+<br />
+
+`Software Engineering · Product · Design · Systems`
+
+<br /><br />
+
 <a href="mailto:caiquesantaborges@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-caiquesantaborges%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/caiquesantaborges%40gmail.com-0d0b0b?style=for-the-badge&logo=gmail&logoColor=C9B89A&labelColor=0d0b0b" />
 </a>
 
 <br /><br />
 
 **+55 11 96150-2183**
 
-<br />
+<br /><br />
 
 <a href="https://kyronagency.netlify.app/">
-<img src="https://img.shields.io/badge/KYRON%20AGENCY-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/MAYSON-DIGITAL%20ATELIER-0d0b0b?style=for-the-badge&logoColor=C9B89A" />
 </a>
 
 <br /><br />
 
-```text
-DESIGN
-   ×
-ENGINEERING
-   ×
-PRODUCT
-```
+---
+
+### `PARISIAN SENSIBILITY · BRAZILIAN ENGINEERING`
+
+<br />
+
+<sub>
+
+Built with intention.
+Designed with precision.
+Engineered to last.
+
+</sub>
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0d0b0b&section=footer" width="100%" />
+
+</div>
